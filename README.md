@@ -24,6 +24,7 @@ I believe in continuous learning to stay ahead in the rapidly evolving field of 
 
 - **Advanced NLP Techniques:** Exploring advanced NLP algorithms and models to enhance the capabilities of chatbot systems like LLMs and Generative AI Chat GPT.
 - **Deep Learning for Finance:** Delving into deep learning techniques tailored for finance applications, such as time series analysis and neural networks.
+- **Meta-Heuristics Techniques:** Exploring and reading learning on meta heuristic techniques such as Ant Colony Optimisation, Particle Swarm Optimisation , Tabu Search etc. 
 - **Cloud Computing:** Expanding my knowledge of cloud platforms and services to leverage scalable and cost-effective solutions for data science projects.
 
 ## 👯 Looking to Collaborate?
