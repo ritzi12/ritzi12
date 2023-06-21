@@ -10,6 +10,13 @@ Welcome to my GitHub profile!  I'm a passionate data scientist who can leverage 
 - **Business Analytics:** With an MBA degree in business analytics, I possess a deep understanding of using data to drive strategic decision-making and solve complex business problems.
 
 ## Skills
+* **Languages** – Python , Core Java, R, PL/SQL
+* **Framework/Lib** – NumPy, Pandas, Scikit-learn ,Tensorflow, Keras, Matplotlib, Seaborn, Plotly
+* **ML** – Regression, Classification, Clustering, Dimensionality Reduction,Ensemble Technique, Feature Selection
+* **NLP** – NLP Tasks(Word Embeddings : NLTK,TFIDF, Word2Vec, Fasttext , Spacy , Gensim , DistilBERT,Classification ,NER,Sentiment Analysis), Chatbot Frameworks( RASA, Dialogflow), Transformers
+* **DL** – CNN, ANN
+* **IDE** – Pycharm, Jupyter Notebooks, Google Colab,Eclipse,R Studio
+* **Deployment**- Streamlit, Flask APIs, Fast API, Docker basics, MongoDB, Gitlab, Git
 
 
 ## 🔭 Featured Projects
