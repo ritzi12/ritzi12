@@ -17,6 +17,7 @@ Welcome to my GitHub profile!  I'm a passionate data scientist who can leverage 
 - [Real-time Tweet Sentiment Analysis and Wordclouds Dashboard](https://github.com/ritzi12/live-tweet-sentiment-app): This is a repository of a real time tweet sentiment analysis app built using streamlit platform and using Hugging Face Bertweet Model as core classifier model.
 - [Bankruptcy Prediction in Highly Imbalanced Dataset Using Instance Hardness Threshold (IHT) Undersampling](https://github.com/ritzi12/bankruptcy_iht): Bankruptcy Prediction - By integrating Instance Hardness(IHT) based Under sampling and Supervised Learning Methods in highly Imbalanced dataset and SHAP Interpretation of Model
 - [Hierarchical Risk PArity Based Portfolio Optimization Comparison](https://github.com/ritzi12/proj-portfolio-hrp): In this project we explore the method of HRP for porfolio composition which has well diversified risk. And we compare it's performance against conventional portfolio optimisation technique such as Markowitz Mean-Variance(MVP) Portfolio.
+- [Probabilistic Neural Network(PNN) for Classification](https://github.com/ritzi12/pnn_probab_neural_net): In this notebook understanding PNN and its related concepts . Concepts of Parzen Window or KDE(kernel density estimate) .Kernel functions as non-parametric method to ascertain data distribution through an example. Implementation of PNN using python for classification tasks.
 
 ## 🌱 What I'm Currently Learning
 
@@ -33,9 +34,9 @@ I'm always open to collaborating on exciting data science projects that align wi
 
 ## 💬 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile URL](link)
-- Personal Website: [Your Website URL](link)
-- Email: [Your Email Address]
+- LinkedIn: [LinkedIn Profile URL](https://www.linkedin.com/in/ritika-gupta-b9197b98/)
+- Kaggle Website: [Kaggle Profile](https://www.kaggle.com/ritzig)
+- Email: [ritika.gg1112@gmail.com]
 
 Let's connect and explore the fascinating world of data science and analytics together!
 
