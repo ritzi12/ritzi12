@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile!  I'm a passionate data scientist who can leverage data to drive actionable insights. With a strong background in business analytics and an MBA degree in Business Analytics and Finance, I bring a unique blend of analytical skills and business acumen to my data science projects. I am a Btech. graduate in ECE who used to work previously as a full stack developer.
 
+####  [Resume](https://github.com/ritzi12/ritzi12/blob/main/Ritika_Gupta_07.23.pdf) 
+
 ## 👨‍💻 Expertise and Interests
 
 - **Python:** I have extensive experience working with Python for data analysis, machine learning, and building data-driven solutions.
