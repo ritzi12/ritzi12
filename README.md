@@ -16,7 +16,7 @@ Welcome to my GitHub profile!  I'm a passionate data scientist who can leverage 
 
 - [Real-time Tweet Sentiment Analysis and Wordclouds Dashboard](https://github.com/ritzi12/live-tweet-sentiment-app): This is a repository of a real time tweet sentiment analysis app built using streamlit platform and using Hugging Face Bertweet Model as core classifier model.
 - [Bankruptcy Prediction in Highly Imbalanced Dataset Using Instance Hardness Threshold (IHT) Undersampling](https://github.com/ritzi12/bankruptcy_iht): Bankruptcy Prediction - By integrating Instance Hardness(IHT) based Under sampling and Supervised Learning Methods in highly Imbalanced dataset and SHAP Interpretation of Model
-- [Hierarchical Risk PArity Based Portfolio Optimization Comparison](https://github.com/ritzi12/proj-portfolio-hrp): Brief description of the project, showcasing its integration of Python, finance, and business analytics concepts.
+- [Hierarchical Risk PArity Based Portfolio Optimization Comparison](https://github.com/ritzi12/proj-portfolio-hrp): In this project we explore the method of HRP for porfolio composition which has well diversified risk. And we compare it's performance against conventional portfolio optimisation technique such as Markowitz Mean-Variance(MVP) Portfolio.
 
 ## 🌱 What I'm Currently Learning
 
