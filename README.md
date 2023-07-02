@@ -1,4 +1,4 @@
-# Hello, I'm Ritika! 👋
+# Hello, I'm Ritika! 👋   ![](https://komarev.com/ghpvc/?username=ritzi12&label=PROFILE+VIEWS&color=red)
 
 Welcome to my GitHub profile!  I'm a passionate data scientist who can leverage data to drive actionable insights. With a strong background in business analytics and an MBA degree in Business Analytics and Finance, I bring a unique blend of analytical skills and business acumen to my data science projects. I am a Btech. graduate in ECE who used to work previously as a full stack developer.
 
@@ -49,7 +49,7 @@ I'm always open to collaborating on exciting data science projects that align wi
 
 Let's connect and explore the fascinating world of data science and analytics together!
 
-
+#### Profile Views Count
 
 
 <!--
