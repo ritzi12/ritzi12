@@ -49,7 +49,6 @@ I'm always open to collaborating on exciting data science projects that align wi
 
 Let's connect and explore the fascinating world of data science and analytics together!
 
-#### Profile Views Count
 
 
 <!--
